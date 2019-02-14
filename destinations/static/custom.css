@@ -1,0 +1,86 @@
+.btn-outline-dark{
+	color: #500300 !important;
+	border-color:#500300 !important;
+	font-family: 'Forum', cursive !important;
+}
+
+a:hover{
+	text-decoration: none !important;
+}
+
+.alert-light {
+    border-color: rgba(0,0,0,.125) !important;
+    margin-bottom: 50px !important;
+}
+
+.card-body {
+    height: 300px;
+}
+
+.footer {
+	background-color: #f9f9f9;
+    padding: 10px 0;
+    color: #500300;
+}
+
+.footer a {
+	color: #8e5b59;
+}
+
+.footer a:hover {
+	color: #940803;
+	text-decoration:none;
+}
+
+.footer p {
+    padding-top: 10px;
+}
+
+.btn-outline-dark:hover {
+	background-color: #500300 !important;
+	color: #FFF !important;
+	border-color:#500300 !important;
+}
+
+.card-img-top {
+	width: 100%;
+    height: 16vw;
+    object-fit: cover;
+}
+.card {
+	margin-bottom: 40px;
+}
+
+.card-title {
+	font-family: 'Cookie', cursive;
+	font-size: 50px;
+	color: #4e0505;
+}
+
+.card-text, .textarea, .form-control, label.col-form-label, div {
+	font-family: 'Forum', cursive;
+	color: #7c0808;
+	font-size: 20px;
+}
+.card-text1, .navbar-brand {
+	font-family: 'Forum', cursive;
+	color: #7c0808;
+	font-size: 23px;
+}
+#navbar {
+	background-color:#4f0402;
+}
+.alert, .alert-secondary {
+	background-color: white;
+}
+img {
+	width: 100%;
+    height: 75%;
+}
+.card-title2 {
+	font-family: 'Cookie', cursive;
+	font-size: 55px;
+	color: #500300;
+}
+
+
